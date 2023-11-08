@@ -62,14 +62,14 @@ p {
 .hero {
   height: 90vh;
   position: relative;
-  background-image: url('../assets/img/hero_bg.png');
+  background-image: url('/assets/img/hero_bg.png');
   background-size: cover;
   background-position: center;
 }
 
 .tagline {
   height: 90%;
-  background-image: url('./assets/img/tagline-h.svg');
+  background-image: url('/assets/img/tagline-h.svg');
   background-size: auto;
   background-repeat: no-repeat;
   background-position: center top;
