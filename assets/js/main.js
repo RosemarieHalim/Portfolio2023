@@ -12,10 +12,10 @@ const text2_options = [
   "Branding"
 ];
 const image_options = [
-  "../assets/img/fashion_slide.jpg",
-  "../assets/img/motley_slide.jpg",
-  "../assets/img/cosmos_slide.jpg",
-  "../assets/img/strength_slide.jpg"
+  "/assets/img/fashion_slide.jpg",
+  "/assets/img/motley_slide.jpg",
+  "/assets/img/cosmos_slide.jpg",
+  "/assets/img/strength_slide.jpg"
   // "{{site.baseurl}}/assets/img/strength_slide.jpg"
 ];
 var i = 0;
